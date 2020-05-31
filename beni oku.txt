@@ -1,0 +1,15 @@
+------------------------------veri tabanlı otomasyonun calısması için ---------
+veri tabanı calısması için xampp kontrol paneli yuklu olması , apache ve mysql "start" olarak baslatılması lazım
+ arac ekle ,kişi sil,güncelle  vb işlemler yapılması için personel girişi yapılması lazım
+****personel girişi***
+ad:kerem
+parola:duman
+not: programın jar dosyası mevcuttur
+
+
+not:
+öncelikle xampp kurulup gereklli startlar  yapıldıktan sonra phpMyAdmin' den bir arabaotomasyonu tablosu olusturulmalıdır.
+tablo türkçe karekterlere duyarlı olması için 	"utf8_turkish_ci" formatında olmalıdır .tablo olustukdan sonra 'phpMyAdmin' üzerinden içe aktar diyerek
+ projemin içindeki "arabaotomasyonu.sql" dosyası seçilmelidir...işlem bu kadar
+
+
